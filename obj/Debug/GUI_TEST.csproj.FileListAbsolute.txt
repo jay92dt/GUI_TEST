@@ -1,0 +1,11 @@
+C:\JAY\C#_JAY\GUI_TEST\bin\Debug\GUI_TEST.exe.config
+C:\JAY\C#_JAY\GUI_TEST\bin\Debug\GUI_TEST.exe
+C:\JAY\C#_JAY\GUI_TEST\bin\Debug\GUI_TEST.pdb
+C:\JAY\C#_JAY\GUI_TEST\obj\Debug\GUI_TEST.csproj.AssemblyReference.cache
+C:\JAY\C#_JAY\GUI_TEST\obj\Debug\GUI_TEST.Properties.Resources.resources
+C:\JAY\C#_JAY\GUI_TEST\obj\Debug\GUI_TEST.csproj.GenerateResource.cache
+C:\JAY\C#_JAY\GUI_TEST\obj\Debug\GUI_TEST.csproj.CoreCompileInputs.cache
+C:\JAY\C#_JAY\GUI_TEST\obj\Debug\GUI_TEST.exe
+C:\JAY\C#_JAY\GUI_TEST\obj\Debug\GUI_TEST.pdb
+C:\JAY\C#_JAY\GUI_TEST\obj\Debug\GUI_TEST.ColorSetting.resources
+C:\JAY\C#_JAY\GUI_TEST\obj\Debug\GUI_TEST.Main.resources
